@@ -16,7 +16,7 @@ const Counter = () => {
 
   return (
     
-    <div className="flex items-center justify-center h-40 w-70 h-50 border-4 border-black rounded  mainbox center-div container mx-auto m-20 bg-gradient-to-r from-green-500 via-yellow-500 to-pink-500 ...">
+    <div className="flex items-center justify-center h-40 w-70 h-50 border-4 border-black rounded  mainbox center-div container mx-auto m-20 bg-gradient-to-r from-green-500 via-yellow-500 to-pink-500 ... shadow-lg  shadow-purple-4  shadow-blue-2 shadow-red-2">                                                                                                                              
 
       
       <button
